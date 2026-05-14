@@ -8,7 +8,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2025-red.svg)](#citation)
 
 <p align="center">
-  <img src="assets/architecture.png" width="800" alt="KransFormer Architecture"/>
+  <img src="full daigram.png" width="800" alt="KransFormer Architecture"/>
 </p>
 
 > **KransFormer** (from *krans* — Dutch/Afrikaans for "crown") is a novel hybrid
